@@ -1,3 +1,3 @@
-impoet sql
+import sql
 import threading 
 import casche 
